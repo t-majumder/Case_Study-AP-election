@@ -1,7 +1,7 @@
 # Case_Study-AP-election
 ## System Prompt
 
-<img src="https://github.com/user-attachments/assets/508c564b-8d87-49ff-af2d-d4d48e3930b8" width="500">
+<img width="500" height="1080" alt="3" src="https://github.com/user-attachments/assets/5d19504f-ded3-4f46-95d5-2bee5e4227a2" />
 
 ## Generated Outputs
 <img width="1920" height="990" alt="1" src="https://github.com/user-attachments/assets/4021c176-8693-4cad-9480-4abdacdebc12" />
